@@ -2,7 +2,7 @@
 
 A website for selling a single book 
 
-# Features
+### Features
 ---
 
 ## Project setup
